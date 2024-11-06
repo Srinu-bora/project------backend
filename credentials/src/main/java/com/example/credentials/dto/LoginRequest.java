@@ -1,7 +1,6 @@
 package com.example.credentials.dto;
 
-
-public class UserRegistrationRequest {
+public class LoginRequest {
     private String username;
     private String password;
 
